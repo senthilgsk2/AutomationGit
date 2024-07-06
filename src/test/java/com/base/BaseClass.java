@@ -13,6 +13,5 @@ public class BaseClass {
 
 		System.out.println(false);
 		
-		System.out.println("update from git b");
 	}
 }
