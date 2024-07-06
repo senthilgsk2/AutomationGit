@@ -13,7 +13,7 @@ public class BaseClass {
 
 		System.out.println("created dev branch");
 
-		System.out.println("code updated by git b to dev");
+		System.out.println("code updated by git a to dev");
 
 	}
 }
