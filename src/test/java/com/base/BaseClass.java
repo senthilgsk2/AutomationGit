@@ -15,7 +15,7 @@ public class BaseClass {
 
 		System.out.println("code updated by git a to dev");
 		
-		System.out.println("merge updated from git a");
+		System.out.println("merge updated from git b");
 
 	}
 }
